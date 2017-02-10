@@ -34,6 +34,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   * [#1230](https://github.com/Behat/Behat/pull/1230): PHP 7.3 support
   * [#1230](https://github.com/Behat/Behat/pull/1230): Suggest ext-dom for JUnit support
 
+### Changed
+  * The `paths` argument accepts an optional array of paths.
+  
 ## [3.5.0] - 2018-08-10
 ### Added
   * [#1144](https://github.com/Behat/Behat/pull/1144): Allow to use arrays as context parameters 
