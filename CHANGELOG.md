@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Changed
+  * The `paths` argument accepts an optional array of paths.
+  
 ## [3.5.0] - 2018-08-10
 ### Added
   * [#1144](https://github.com/Behat/Behat/pull/1144): Allow to use arrays as context parameters 
